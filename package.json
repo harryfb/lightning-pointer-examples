@@ -1,0 +1,13 @@
+{
+  "name": "lightning-pointer-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Harry Bullough",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "wpe-lightning": "github:harryfb/Lightning#8dbe51b"
+  }
+}
